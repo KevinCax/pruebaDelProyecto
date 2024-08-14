@@ -1,2 +1,3 @@
-# pruebaDelProyecto
-prueba del proyecto de programación 2 para no perder los archivos
+# programacionProyectoII
+
+Este es el repositorio de mi proyecto de la Universidad Mariano Gálvez de programación II
